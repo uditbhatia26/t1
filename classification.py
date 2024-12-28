@@ -33,4 +33,3 @@ st.title("Predictions")
 
 # Images
 st.write(f"The predicted species is: {target_name[pred[0]]}")
-st.image('Jamie_Before.jpg', "This is some random image", 300)
